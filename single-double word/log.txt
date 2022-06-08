@@ -1,0 +1,10 @@
+diversity in 
+1) phonetics by the paper 2018 E. Chang
+	coronal: 
+	labial:
+	dorsal: 
+	vocalic: 
+2) semantic - need to find source for semantic differences in brain
+3) what to control:
+	length
+	
